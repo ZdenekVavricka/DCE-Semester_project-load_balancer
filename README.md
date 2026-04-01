@@ -1,7 +1,7 @@
 # DCE-Semester project-Load-balancer
 Simple load-balancer using Nginx
 
-It is a part of bigger semester work: [dce-semestralka_1](https://github.com/ZdenekVavricka/dce-semestralka_1.git)
+It is a part of bigger semester work: [DCE-Semester project](https://github.com/ZdenekVavricka/dce-semestralka_1.git)
 
 ## Function
 This load balancer serves users query on backend servers.
